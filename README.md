@@ -65,9 +65,4 @@ python main.py
 - Add a web interface for user interaction.
 - Use additional metadata (genres, keywords) for enhanced recommendations.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 Enjoy discovering movies with this recommendation system!
